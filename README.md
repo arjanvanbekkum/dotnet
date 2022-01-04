@@ -1,3 +1,3 @@
-# dotnet
+# .NET
 
-Some snippets with .net code
+Some snippets with .NET code
